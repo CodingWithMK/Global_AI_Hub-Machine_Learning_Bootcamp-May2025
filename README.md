@@ -8,7 +8,7 @@ This repository contains the final submission for the **Akbank Global AI Hub Mac
 
 - [Movie Recommendation System - Collaborative Filtering (KNN)](https://www.kaggle.com/code/codingwithmk/gaih-ml-bootcamp-may2025-mlmovierecosystemproject)
 - [Movie Rating Prediction - Regression Model](https://www.kaggle.com/code/codingwithmk/gaih-ml-bootcamp-may2025-mlmoviepredproject)
-- [Movie Recommendation System - TF-IDF + Cosine Similarity](https://www.kaggle.com/YOUR-NOTEBOOK-LINK)
+- [Movie Recommendation System - TF-IDF + Cosine Similarity](https://www.kaggle.com/code/codingwithmk/gaih-ml-bootcamp-may2025-tfidf-cosine-movierecosy)
 
 ---
 
